@@ -3,48 +3,59 @@
         {
             "id":1,
             "product":"Pen",
-            "image":"https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+            "image":"https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "price":20
         },
         {
             "id":2,
             "product":"Stationary Box",
-            "image":"https://images.jdmagicbox.com/quickquotes/images_main/classmate-educational-supplies-08-01-2021-002-219994293-0c117.jpg"
+            "image":"https://images.jdmagicbox.com/quickquotes/images_main/classmate-educational-supplies-08-01-2021-002-219994293-0c117.jpg",
+            "price":100
         },{
             "id":3,
             "product":"Eraser",
-            "image":"https://helloaugust.in/wp-content/uploads/2022/10/staedtler-rasoplast-combi-eraser.jpg"
+            "image":"https://helloaugust.in/wp-content/uploads/2022/10/staedtler-rasoplast-combi-eraser.jpg",
+            "price":5
         },{
             "id":4,
             "product":"Protactor",
-            "image":"https://www.bittoo.in/wp-content/uploads/2017/02/H31803-A.jpg"
+            "image":"https://www.bittoo.in/wp-content/uploads/2017/02/H31803-A.jpg",
+            "price":20
         },{
             "id":5,
             "product":"Scale",
-            "image":"https://m.media-amazon.com/images/I/81Pu-9fxjpL._SX679_.jpg"
+            "image":"https://m.media-amazon.com/images/I/81Pu-9fxjpL._SX679_.jpg",
+            "price":10
         },{
             "id":6,
             "product":"Triangle Scale",
-            "image":"https://5.imimg.com/data5/DX/UP/MY-45081184/plastic-triangle-scale-500x500.jpg"
+            "image":"https://5.imimg.com/data5/DX/UP/MY-45081184/plastic-triangle-scale-500x500.jpg",
+            "price":10
         },{
             "id":7,
             "product":"Pen",
-            "image":"https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVufGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+            "image":"https://images.unsplash.com/photo-1471107340929-a87cd0f5b5f3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGVufGVufDB8fDB8fA%3D%3D&w=1000&q=80",
+            "price":50
         },{
             "id":8,
             "product":"Copy",
-            "image":"https://m.media-amazon.com/images/I/81HJkWfNeEL._SL1500_.jpg"
+            "image":"https://m.media-amazon.com/images/I/81HJkWfNeEL._SL1500_.jpg",
+            "price":200
         },{
             "id":9,
             "product":"Sheets",
-            "image":"https://m.media-amazon.com/images/I/61wiMgk3uVL._SL1500_.jpg"
+            "image":"https://m.media-amazon.com/images/I/61wiMgk3uVL._SL1500_.jpg",
+            "price":60
         },{
             "id":10,
             "product":"Diary",
-            "image":"https://m.media-amazon.com/images/I/61lUou7AqHL._SL1030_.jpg"
+            "image":"https://m.media-amazon.com/images/I/61lUou7AqHL._SL1030_.jpg",
+            "price":150
         },{
             "id":11,
             "product":"Pen Holder",
-            "image":"https://rukminim1.flixcart.com/image/416/416/kc54ivk0/desk-organizer/8/t/r/p-k-1-compartments-metal-pencil-holder-black-pen-stand-pandk-original-imaftcdpzayq4df7.jpeg?q=70"
+            "image":"https://rukminim1.flixcart.com/image/416/416/kc54ivk0/desk-organizer/8/t/r/p-k-1-compartments-metal-pencil-holder-black-pen-stand-pandk-original-imaftcdpzayq4df7.jpeg?q=70",
+            "price":250
         }
     ]
 }
